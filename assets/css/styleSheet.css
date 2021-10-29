@@ -5,7 +5,7 @@
 }
 
 
-@media screen and (min-width: 768px)
+
 .jumbotron .h1, .jumbotron h1 {
     font-size: 63px;
 }
@@ -28,7 +28,7 @@
     position: relative;
     min-height: 50px;
 }
-@media (min-width: 768px)
+
 .navbar-collapse.collapse {
     display: block!important;
     height: auto!important;
@@ -39,7 +39,7 @@
     padding-right: 15px;
     padding-left: 15px;    
 }
-@media (min-width: 992px)
+
 .col-md-3 {
     width: 25%;
 }
@@ -48,7 +48,7 @@
     padding-right: 15px;
     padding-left: 15px;
 }
-@media (min-width: 992px)
+
 .col-md-6 {
     width: 50%;
 }
