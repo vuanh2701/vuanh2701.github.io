@@ -4,6 +4,22 @@
     box-sizing: border-box ;
 }
 
+
+@media screen and (min-width: 768px)
+.jumbotron .h1, .jumbotron h1 {
+    font-size: 63px;
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    background-color: #eee;
+}
+
+
+
+
 .jumbotron .container {
     max-width: 100%;
     text-align: center;
@@ -711,3 +727,8 @@ figure.effect {
     margin-right:19px;
     
 }
+
+
+
+
+
