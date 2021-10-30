@@ -66,6 +66,11 @@ html, body {
     margin-bottom: 0;
     list-style: none;
 }
+.fas .fa-chevron-down{
+    font-size: 50px;
+    margin-top: 10px;
+    color: white;
+}
 
 
 
