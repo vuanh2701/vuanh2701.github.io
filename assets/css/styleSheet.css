@@ -121,13 +121,13 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, strong, b {
 }
 
 h1, h4 {
-    font-weight: 500;
+    font-weight: 200;
     margin-bottom: 10px;
 }
 
 
 h2, h3 {
-    font-weight: 400 !important;
+    font-weight: 200 !important;
         color: #4e4d4d;
 }
 #profile > p {
@@ -166,7 +166,7 @@ ul.no-bullets {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
-    margin-left: 40px;
+    margin-left: 25px;
 }
 
 hr {
