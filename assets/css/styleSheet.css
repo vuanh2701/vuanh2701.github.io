@@ -59,8 +59,7 @@ html, body {
 }
 
 .navbar-nav {
-    
-    display: inline-block;
+    display: inline-block !important;
    margin-left: 30px;
     flex-direction: column;
     padding-left: 0;
@@ -145,7 +144,7 @@ p{
 
 h3 {
     font-size: 33px !important;
-    margin-left: 40px;
+    margin-left: 90px;
 }
 
 p.lead {
@@ -306,7 +305,9 @@ hr {
 /*   
   
 
-
+.nav .navbar{
+display: inline-block;
+}
 .navbar-nav {
     margin: 0px;
 }
