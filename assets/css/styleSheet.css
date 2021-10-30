@@ -66,11 +66,7 @@ html, body {
     margin-bottom: 0;
     list-style: none;
 }
-.fas .fa-chevron-down{
-    font-size: 50px;
-    margin-top: 10px;
-    color: white;
-}
+
 
 
 
@@ -248,6 +244,8 @@ hr {
         }
 
     .jumbotron .scroll-down {
+            font-size: 50px;
+         color: darkgray;
         height: 80px;
         width: 110px;
         display: block;
@@ -257,6 +255,8 @@ hr {
         background-color: #222222;
         text-align: center;
         z-index: 6;
+        border-radius : 24px;
+        padding-top:8px;
     }
 
         .jumbotron .scroll-down .glyphicon {
